@@ -10,7 +10,8 @@ namespace ConsoleClient
         static async Task Main(string[] args)
         {
             var _connection = new HubConnectionBuilder()
-                .WithUrl("http://localhost:53353/ChatHub")
+//                .WithUrl("http://localhost:53353/ChatHub")
+                .WithUrl("http://localhost:5000/ChatHub")
                 .Build();
 
             _connection.Closed += async error =>

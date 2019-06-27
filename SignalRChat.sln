@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETCoreClient", "ASP.NETCoreClient\ASP.NETCoreClient.csproj", "{8D58D577-FF0B-483A-89C6-4A4CB46B385B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHost", "ConsoleHost\ConsoleHost.csproj", "{41A5A354-CDC0-4620-8A02-1F1B5AE0405B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8D58D577-FF0B-483A-89C6-4A4CB46B385B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D58D577-FF0B-483A-89C6-4A4CB46B385B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D58D577-FF0B-483A-89C6-4A4CB46B385B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A5A354-CDC0-4620-8A02-1F1B5AE0405B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A5A354-CDC0-4620-8A02-1F1B5AE0405B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A5A354-CDC0-4620-8A02-1F1B5AE0405B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A5A354-CDC0-4620-8A02-1F1B5AE0405B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+D:\repos\sample\ConsoleHost\bin\Debug\netcoreapp2.2\ConsoleHost.deps.json
+D:\repos\sample\ConsoleHost\bin\Debug\netcoreapp2.2\ConsoleHost.runtimeconfig.json
+D:\repos\sample\ConsoleHost\bin\Debug\netcoreapp2.2\ConsoleHost.runtimeconfig.dev.json
+D:\repos\sample\ConsoleHost\bin\Debug\netcoreapp2.2\ConsoleHost.dll
+D:\repos\sample\ConsoleHost\bin\Debug\netcoreapp2.2\ConsoleHost.pdb
+D:\repos\sample\ConsoleHost\obj\Debug\netcoreapp2.2\ConsoleHost.csprojAssemblyReference.cache
+D:\repos\sample\ConsoleHost\obj\Debug\netcoreapp2.2\ConsoleHost.csproj.CoreCompileInputs.cache
+D:\repos\sample\ConsoleHost\obj\Debug\netcoreapp2.2\ConsoleHost.AssemblyInfoInputs.cache
+D:\repos\sample\ConsoleHost\obj\Debug\netcoreapp2.2\ConsoleHost.AssemblyInfo.cs
+D:\repos\sample\ConsoleHost\obj\Debug\netcoreapp2.2\ConsoleHost.dll
+D:\repos\sample\ConsoleHost\obj\Debug\netcoreapp2.2\ConsoleHost.pdb

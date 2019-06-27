@@ -58,7 +58,6 @@ namespace SignalRChat
             {
                 routes.MapHub<ChatHub>("/chathub");
             });
-            app.UseMvc();
         }
     }
 }
