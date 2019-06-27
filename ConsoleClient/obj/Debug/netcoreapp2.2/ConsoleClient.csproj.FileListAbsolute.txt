@@ -1,0 +1,11 @@
+D:\repos\sample\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.deps.json
+D:\repos\sample\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.runtimeconfig.json
+D:\repos\sample\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.runtimeconfig.dev.json
+D:\repos\sample\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.dll
+D:\repos\sample\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.pdb
+D:\repos\sample\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.csprojAssemblyReference.cache
+D:\repos\sample\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.csproj.CoreCompileInputs.cache
+D:\repos\sample\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.AssemblyInfoInputs.cache
+D:\repos\sample\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.AssemblyInfo.cs
+D:\repos\sample\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.dll
+D:\repos\sample\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.pdb
